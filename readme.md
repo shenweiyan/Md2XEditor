@@ -224,9 +224,8 @@ $$
 <a id="footnote-1"></a>
 <a id="jump_20"></a>
 ###赞赏Md2X
-如果你觉得到 Md2X 对你有帮助，欢迎赞赏，有你的支持，Md2X一定会越来越好！
-![微信赞赏码](http://apps-db.oss-cn-shenzhen.aliyuncs.com/donate/donate-wechat.png)
-![支付宝赞赏码](http://apps-db.oss-cn-shenzhen.aliyuncs.com/donate/donate-alipay.png)
+如果你觉得到 Md2X 对你有帮助，欢迎赞赏，有你的支持，Md2X 一定会越来越好！
+![微信-支付宝赞赏码](https://apps-db.oss-cn-shenzhen.aliyuncs.com/donate/donate-wecaht-aliapy.jpg)
 
 ###参考文献
 <section class="ref">
