@@ -1,9 +1,10 @@
 > 微信公众号：**[BioIT爱好者](#jump_10)**<br/>
-> 本站点以颜家大少的 **[Md2All](https://md.aclickall.com)** 为基础，进行了定制化修改和重新部署，是一个专注于解决微信公众号 Markdown 排版的平台。问题或建议，请关注 **[BioIT爱好者](#jump_10)** 公众号，或者通过以下方式与我联系：<br/>
+> 本站点以颜家大少的 **[Md2All](https://md.aclickall.com)** 为基础，进行了定制化修改和重新部署，是一个专注于解决微信公众号 Markdown 排版的平台。问题或建议，请关注 **[BioIT爱好者](#jump_10)** 公众号，或者通过以下方式与我联系：
+> <br/>
 > - 邮箱：ishenweiyan@foxmail.com
 > - 语雀：[https://www.yuque.com/shenweiyan](https://www.yuque.com/shenweiyan)
 
-**[如果你觉得 Md2X 对你有帮助，欢迎赞赏](#jump_20)[^1]**
+**[如果你觉得 Md2X Editor 对你有帮助，欢迎赞赏](#jump_20)[^1]**
 
 ##关于 Md2X Editor 网站访问
 有时网站的访问不稳定，可分别尝试不同的服务器：
