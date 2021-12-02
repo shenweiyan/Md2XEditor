@@ -16,7 +16,7 @@
 由于 **[Md2All](https://md.aclickall.com)** 很长一段时间都不再更新，加上有时候 **[Md2All](https://md.aclickall.com)** 的访问不稳定，本项目在 **[Md2All](https://md.aclickall.com)** 的基础上进行了一些调整和修改后的重新部署(包括把站点迁移至腾讯云等)。
 
 - Markdown 排版利器，支持 **"一键排版"** 、自定义 css、80 多种代码高亮。
-- 能让 Markdown 内容，无需作任何调整就能**一键复制**到微信公众号、博客园、掘金、知乎、csdn、51cto、wordpress、hexo。。。等平台。
+- 能让 Markdown 内容，无需作任何调整就能**一键复制**到微信公众号、博客园、掘金、知乎、csdn、51cto、wordpress、hexo......等平台。
 - 支持把图片自动上传到云图床;
 - 支持 Latex 数学公式在公众号等平台完美显示;
 - 支持生成带样式的 html 文件;
