@@ -1,0 +1,20 @@
+/*<span  class="css_edit_note">
+右边为最终生成文件的预览。
+
+此样式，主要用于设置整体背景，内容的内、外边框等，
+侧重于文档整体框架的样式。
+可任意修改样式，或恢复预设值，保存后生效</span>
+*/
+body{/*<span  class="css_edit_note">文档整体的属性</span>*/
+       width: 100%;
+       margin:0;
+       padding:0;
+       background: #519ab2;
+}
+
+#export_content{/*<span  class="css_edit_note">文档内容的整体属性</span>*/
+       margin: 40px 20%;
+       padding:20px;
+       border: 1px solid rgb(149, 155, 111);
+       background:#ffffff;
+}
