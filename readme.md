@@ -9,7 +9,7 @@
 ##关于 Md2X Editor 网站访问
 有时网站的访问不稳定，可分别尝试不同的服务器：
 - [服务器1：https://mdx.bioitee.com](https://mdx.bioitee.com)
-- [服务器2：暂未上线](#)
+- [服务器2：https://shenweiyan.gitee.io/md2xeditor](https://shenweiyan.gitee.io/md2xeditor/)
 
 
 ##Md2X Editor 简介
