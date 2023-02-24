@@ -160,7 +160,7 @@ li{
 .output_wrapper pre:before {
     content: '';
     display: block;
-    background: url(http://apps-db.oss-cn-shenzhen.aliyuncs.com/%E6%9D%82%E5%9B%BE/point.png);
+    background: url(https://cos.shenlab.cn/md2x/mac-style-point.png);
     height: 40px;
     background-size: 40px;
     background-repeat: no-repeat;
