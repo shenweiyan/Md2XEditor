@@ -1,7 +1,7 @@
 > 微信公众号：**[BioIT爱好者](#jump_10)**<br/>
 > 本站点以颜家大少的 **[Md2All](https://md.aclickall.com)** 为基础，进行了定制化修改和重新部署，是一个专注于解决微信公众号 Markdown 排版的平台。问题或建议，请关注 **[BioIT爱好者](#jump_10)** 公众号，或者通过以下方式与我联系：
 > <br/>
-> - 邮箱：[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gfLp5O-t4OPB5_757ODo7a-i7uw)
+> - 邮箱：[shumlab@foxmail.com](mailto:shumlab@foxmail.com?subject=Md2XEditor反馈与意见)
 > - 语雀：[https://www.yuque.com/shenweiyan](https://www.yuque.com/shenweiyan)
 
 **[如果你觉得 Md2X Editor 对你有帮助，欢迎赞赏](#jump_20)[^1]**
@@ -75,7 +75,8 @@ function DisplayWindowSize(){
 ##图片显示
 
 下面的是我的公众号二维码图片，欢迎关注。
-![图注:BioIT爱好者公众号](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) 
+![图注:BioIT爱好者公众号](https://user-images.githubusercontent.com/26101369/221133559-68de9380-2c3a-4273-bbf5-9d5ed6db16d0.jpeg)
+
 注：Markdown 对图片链接的语法是:`![]()`,如：`![这里写图片描述](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png)`, 可直接把网络图片地址添加到 Markdown 中，默认为图片居中，如果想居左时，请打开"一键排版"下的 css 样式中的`img{margin:0 0;}`, `[这里写图片描述]`中对图片的描述内容会自动生成在图片的底部，对应样式`figcaption{}`。
 
 ##云图床功能
@@ -253,7 +254,7 @@ $$
 <a id="jump_20"></a>
 ###赞赏 Md2X Editor
 如果你觉得到 Md2X 对你有帮助，欢迎赞赏，有你的支持，Md2X 一定会越来越好！
-![微信-支付宝赞赏码](https://apps-db.oss-cn-shenzhen.aliyuncs.com/donate/donate-wecaht-aliapy.jpg)
+![微信-支付宝赞赏码](https://user-images.githubusercontent.com/26101369/221133790-ecee318f-70fe-4dda-beb2-2ad03c20c0d6.jpg)
 
 
 ###版本更新记录
